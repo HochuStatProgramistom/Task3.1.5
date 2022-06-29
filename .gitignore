@@ -1,0 +1,10 @@
+
+*.java
+*.class
+*.iml
+*.xml
+*.jar
+*.properties
+Task3.3.1-main/crud/mvnw
+*.cmd
+Task3.3.1-main/.gitattributes
